@@ -2,7 +2,10 @@
 
 🌟 A passionate **AI and Data Science graduate** on a mission to master **programming** and apply my skills to real-world projects.
 
----![Untitled](https://github.com/user-attachments/assets/6e809234-f94b-4e5d-a099-ab160cfdc613)
+
+https://github.com/user-attachments/assets/42450498-95da-4265-8960-fbaa784b2a29
+
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thomsont711&theme=buefy-dark)](https://git.io/streak-stats)
