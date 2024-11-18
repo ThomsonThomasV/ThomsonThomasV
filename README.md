@@ -45,7 +45,6 @@ I graduated in **AI and Data Science** without really learning how to code—bas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomsont711&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomsont711&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=thomsont711&theme=radical)](https://git.io/streak-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
