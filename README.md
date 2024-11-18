@@ -4,6 +4,8 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thomsont711&theme=buefy-dark)](https://git.io/streak-stats)
+
 ## 🚀 Current Focus
 
 - 📘 Rekindling my passion for **programming** after completing my B.Tech in **AI and Data Science**.
@@ -43,8 +45,9 @@ I graduated in **AI and Data Science** without really learning how to code—bas
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomsont711&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomsont711&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomsont711&show_icons=true&theme=midnight-purple&card_width=500)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomsont711&layout=compact&theme=midnight-purple&card_width=500)  
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
