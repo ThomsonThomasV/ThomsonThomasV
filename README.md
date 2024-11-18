@@ -3,8 +3,8 @@
 🌟 A passionate **AI and Data Science graduate** on a mission to master **programming** and apply my skills to real-world projects.
 
 
-![modern-warfare2-ghost](https://github.com/user-attachments/assets/35480fc5-abdd-4a0a-a5df-a783e27d9193)
 
+![modern-warfare2-ghost](https://github.com/user-attachments/assets/b0d15e4d-61d7-45a9-a660-3cb085333373)
 
 
 
