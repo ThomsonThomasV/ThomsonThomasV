@@ -2,9 +2,7 @@
 
 🌟 A passionate **AI and Data Science graduate** on a mission to master **programming** and apply my skills to real-world projects.
 
----
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thomsont711&theme=buefy-dark)](https://git.io/streak-stats)
 
 ## 🚀 Current Focus
 
@@ -47,6 +45,7 @@ I graduated in **AI and Data Science** without really learning how to code—bas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomsont711&show_icons=true&theme=midnight-purple&card_width=500)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomsont711&layout=compact&theme=midnight-purple&card_width=500)  
+[![Thomson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThomsonThomas&theme=midnight-purple&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
