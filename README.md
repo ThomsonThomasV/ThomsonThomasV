@@ -48,8 +48,8 @@ I graduated in **AI and Data Science** without really learning how to code—bas
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomsont711&show_icons=true&theme=midnight-purple&card_width=500&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomsont711&layout=compact&theme=midnight-purple&card_width=500&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomsonThomasV&show_icons=true&theme=midnight-purple&card_width=500&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomsonThomasV&layout=compact&theme=midnight-purple&card_width=500&hide_border=true)  
 [![Thomson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThomsonThomas&theme=midnight-purple&card_width=500&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 <picture>
