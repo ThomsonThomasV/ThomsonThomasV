@@ -12,7 +12,7 @@
 ## 🚀 Current Focus
 
 - 📘 Rekindling my passion for **programming** after completing my B.Tech in **AI and Data Science**.
-- 🌱 Building a solid foundation by learning **HTML** and **CSS** as my starting point.
+- 🌱 Diving into JavaScript and React to enhance my web development skills
 - 🛠 Determined to master **JavaScript, Python, SQL**, and dive deeper into **Machine Learning** and **AI Models**.
 - 🤖 Taking responsibility for my learning journey to bridge the gap in practical programming skills.
 - 🔍 Excited to apply my academic knowledge to real-world projects and make an impact.
@@ -28,10 +28,10 @@
 ## 🔖 Additional Information
 
 🔭 **I’m currently working on:**  
-Practicing **HTML and CSS** with small projects and getting ready to explore **JavaScript** and **Python**.  
+Practicing **JS** with small projects and getting ready to explore **React** and **Tailwind**.  
 
 🌱 **I’m currently learning:**  
-Web development basics (**HTML, CSS**) and planning to dive into **JavaScript** and **SQL** next.  
+Strengthening my JavaScript skills and getting ready to learn React next.
 
 👯 **I want to collaborate on:**  
 Beginner-friendly projects in **web development**, **data visualization**, or **AI** to grow and learn together.  
@@ -61,9 +61,5 @@ I graduated in **AI and Data Science** without really learning how to code—bas
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-
-
-
 
 
