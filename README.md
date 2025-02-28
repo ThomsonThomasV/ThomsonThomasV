@@ -12,7 +12,7 @@
 ## 🚀 Current Focus
 
 - 📘 Rekindling my passion for **programming** after completing my B.Tech in **AI and Data Science**.
-- 🌱 Diving into JavaScript and React to enhance my web development skills
+- 🌱 Diving into **JavaScript** and **React** to enhance my **web development** skills.
 - 🛠 Determined to master **JavaScript, Python, SQL**, and dive deeper into **Machine Learning** and **AI Models**.
 - 🤖 Taking responsibility for my learning journey to bridge the gap in practical programming skills.
 - 🔍 Excited to apply my academic knowledge to real-world projects and make an impact.
@@ -31,7 +31,7 @@
 Practicing **JS** with small projects and getting ready to explore **React** and **Tailwind**.  
 
 🌱 **I’m currently learning:**  
-Strengthening my JavaScript skills and getting ready to learn React next.
+Strengthening my **JavaScript** skills and getting ready to learn **React** next.
 
 👯 **I want to collaborate on:**  
 Beginner-friendly projects in **web development**, **data visualization**, or **AI** to grow and learn together.  
